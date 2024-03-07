@@ -6,7 +6,6 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, , Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
 	background-color: #e0f0ff;
 }
@@ -17,6 +16,7 @@ body {
     background-color: #99C0C8; 
 	color:antiquewhite;
 	border-radius: 10px 10px 10px 10px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"
 		
 		
 }
@@ -52,7 +52,10 @@ h1 {
 .biography-details li, .skill-list li {
 	padding-left: 1em;
 }
-
+a{
+	color: #8AADB6;
+	
+}
 /* Styles for contact icons */
 
 .contact-icon {
