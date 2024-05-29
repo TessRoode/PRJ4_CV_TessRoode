@@ -33,8 +33,12 @@ h1 {
 }
 
 h2{
-	font-family: 'Barlow Condensed, sans-serif';
+	
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
+
 
 .resume-aside {
 	background-color: #fff0e0;
@@ -72,4 +76,11 @@ a{
 
 a {color: #698D7C
 	
+}
+
+
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
